@@ -2,8 +2,6 @@ App Name:
 
 UPHILL APP - Understanding Petroleum & Health of Indigenous Life & Land (UPHILL)
 
-App Video Link:
-
 App Link:
 https://uwaterloo.maps.arcgis.com/apps/opsdashboard/index.html#/3fe7aa9dd3044a7c8c6330dd865fb7d6
 
@@ -15,10 +13,6 @@ The goal of the UPHILL web application is to use 3D visualization and Operations
 
 
 Team Name: UPHILL Climbers
-
-Team Photo
-
- 
 
 Team Member Bios:
 
