@@ -8,11 +8,11 @@ The United Nations (UN), as part of its 2030 Agenda for Sustainable Development,
 
 The goal of the UPHILL web application is to use 3D visualization and Operations Dashboard analytics to provide accurate visualization and important statistics about the effects of oil pipelines on the health of Indigenous communities in Alberta. UPHILL is designed to provide information on Indigenous communities in Alberta, the proximity of oil pipelines to these communities and water-related ecosystems, and oil pipeline incidents that have been recorded. This puts in context areas that are susceptible to oil pipeline incidents and therefore have their communities’ health threatened. This web application can be used by government officials, Indigenous communities and oil companies to identify these susceptible areas and this information can be used to influence further action such as putting measures in place to prevent or mitigate health impacts of oil pipeline activities. Addressing the UN’s SDGs on Good Health and Wellbeing, as well as Clean Water Sanitation, this app can be adapted to multiple scenarios with the health of Indigenous communities in other provinces of Canada where oil pipeline activities take place.
 
-# Team Name: UPHILL Climbers
+# UPHILL Climbers
 
-# Team Photo
+## Team Photo
 ![TeamPhoto.jpg](https://www.dropbox.com/s/ydha07vr10p5lo0/TeamPhoto.jpg?dl=0&raw=1)
-# Team Member Bios:
+## Team Member Bios:
 
 Manpreet (left): 
 I was the Lead Data Scientist for the team. I am completing my Master’s in Geography, working with Public Participation GIS and Heritage Planning at the University of Waterloo. I completed my undergraduate degree in Biology and Environmental Science with a minor in GIS at McMaster University. My background in using GIS technology in my undergraduate thesis and thus far in my Masters thesis has given me the experience to gather, clean, organize, and analyze the data for the app. In my spare time, I enjoy playing sports such as basketball and soccer and watching hockey.
