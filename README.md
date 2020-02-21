@@ -88,9 +88,11 @@ The provincial and federal governments, other oil-related agencies and oil compa
 The Sustainable Development Goals (SDGs) are the 2030 Agenda for Sustainable Development, adopted by all United Nations Member States in 2015, which provide a shared blueprint for peace and prosperity for people and the planet, now and into the future. At its heart are the 17 Sustainable Development Goals (SDGs), which are an urgent call for action by all countries - developed and developing - in a global partnership. They recognize that ending poverty and other deprivations must go hand-in-hand with strategies that improve health and education, reduce inequality, and spur economic growth – all while tackling climate change and working to preserve our oceans and forests. In the case of our app, we have narrowed down the 17 SDGs to 2 SDGs that we believe are most applicable to the impact of oil pipelines on the health of Indigenous communities in Alberta.
 
 SDG 3: Good health and well-being
+
 This goal is to ensure healthy lives and promote well-being for all at all ages.
 
 SDG 6: Clean water and sanitation
+
 SDG 6 aims at ensuring access to clean water and sanitation for all.
 
 # How to
