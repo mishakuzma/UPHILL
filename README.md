@@ -12,7 +12,7 @@ The goal of the UPHILL web application is to use 3D visualization and Operations
 
 ## Team Photo
 ![TeamPhoto.jpg](https://www.dropbox.com/s/ydha07vr10p5lo0/TeamPhoto.jpg?dl=0&raw=1)
-## Team Member Bios:
+## Team Member Bios
 
 Manpreet (left): 
 I was the Lead Data Scientist for the team. I am completing my Master’s in Geography, working with Public Participation GIS and Heritage Planning at the University of Waterloo. I completed my undergraduate degree in Biology and Environmental Science with a minor in GIS at McMaster University. My background in using GIS technology in my undergraduate thesis and thus far in my Masters thesis has given me the experience to gather, clean, organize, and analyze the data for the app. In my spare time, I enjoy playing sports such as basketball and soccer and watching hockey.
@@ -40,6 +40,9 @@ I was the Lead Analyst and Data Visualizer for the team. I am completing my Bach
 [[7]](https://www.altalis.com/products/base/20k_base_features.html) Atlalis. (2020). Alberta Provincial DEM 25m. 
 
 # Characteristics of the App
+
+## 2D Web Map:
+Displayed from a birds-eye view, a web map provides a overview of the spatial context for the effects of pipeline incidents on water health. In combination with Operations Dashboard, the 2D web map acts as a spatial filter for charts and graphs, allowing on-the-fly statistics for specific extents and areas. This feature allows users to find specific case studies for investigating Indigenous health in Alberta.
 
 ## 3D Visualization:
 Using ArcGIS Pro, 3D visualization of the data to get a more on-the-ground view of the information is possible. A 3D visualization can hopefully make the data more interesting and engaging to a user exploring the scene. It also allows for a more detailed visual analysis, as a user can see how elevation differences occur across the space, and how an imagined leakage of petrol products might flow into nearby water bodies. 
