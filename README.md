@@ -170,7 +170,7 @@ Create Operations Dashboard:
 2. Create a new operations dashboard with a unique title.
 3. Add in a new map. Select the 2D map that was created before.
 4. Add in a new Rich Text element. Add in the following code snippet but replace [XXX] with the embed code copied earlier:
-		"<p></p> [XXX]"
+	<p></p> [XXX]
 5. Change the “width” and “height” attributes in the copied text to reflect the desired iframe dimensions. Trial and error will be required to get the proper dimensions.
 6. Add a new pie chart element. Use the pipelines layer. Call it “Pipeline Length by Corporate Holder” and make the categorization field “COMP_NAME”. Change the statistic to Sum and make the value field “segment_length”.
 7. Add an indicator element. Use the water advisory layer. Change the statistic to count. Use the filter “Advisory Type Equal Boil Water Advisory (BWA)”. Give it the title of “Number of Boil Water Advisories in Extent”. Save the element.
