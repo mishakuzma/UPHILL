@@ -26,12 +26,18 @@ I was the Lead Analyst and Data Visualizer for the team. I am completing my Bach
 
 # Data Sources
 
-[[1]](https://aer.ca/providing-information/data-and-reports/maps-mapviewers-and-shapefiles) Alberta Energy Regulator Shapefiles and Other Spatial Data. (2019). Enhanced Pipeline Shapefile - Open data.  
+[[1]](https://aer.ca/providing-information/data-and-reports/maps-mapviewers-and-shapefiles) Alberta Energy Regulator Shapefiles and Other Spatial Data. (2019). Enhanced Pipeline Shapefile - Open data.
+
 [[2]](https://open.canada.ca/data/en/dataset/7dffedc4-23fa-440c-a36d-adf5a6cc09f1) Government of Canada Open Government Portal. (2019). Pipeline Incidents - Open data. 
-[[3]](https://open.canada.ca/data/en/dataset/522b07b9-78e2-4819-b736-ad9208eb1067) Government of Canada Open Government Portal. (2019). Aboriginal Lands of Canada Legislative Boundaries - Open data. 
+
+[[3]](https://open.canada.ca/data/en/dataset/522b07b9-78e2-4819-b736-ad9208eb1067) Government of Canada Open Government Portal. (2019). Aboriginal Lands of Canada Legislative Boundaries - Open data.
+
 [[4]](https://open.canada.ca/data/en/dataset/448ec403-6635-456b-8ced-d3ac24143add) Government of Canada Open Government Portal. (2016). Water File - Lakes and Rivers (polygons) - 2011 Census.  
+
 [[5]](https://open.canada.ca/data/en/dataset/5f73fff7-2011-48b9-af52-ffb31e68539c) Government of Canada Open Government Portal. (2018). Drinking Water Advisories in First Nations Communities - Open data. 
+
 [[6]](https://www12.statcan.gc.ca/census-recensement/alternative_alternatif.cfm?archived=1&l=eng&dispext=zip&teng=gpr_000a11a_e.zip&k=%20%20%20%20%202194&loc=http://www12.statcan.gc.ca/census-recensement/2011/geo/bound-limit/files-fichiers/gpr_000a11a_e.zip) Statistics Canada. (2019). Boundary Shapefile of Provinces in Canada - Open data. 
+
 [[7]](https://www.altalis.com/products/base/20k_base_features.html) Atlalis. (2020). Alberta Provincial DEM 25m. 
 
 # Characteristics of the App
@@ -175,39 +181,59 @@ Create Operations Dashboard:
 # Screenshots:
 
  ![Screenshot1.PNG](https://www.dropbox.com/s/11oxdl9v5akwfsx/Screenshot1.PNG?dl=0&raw=1)
+ 
 Figure 1: Peace River, Upstream Pipelines with Incidents, and Surrounding Indigenous Lands with a Do Not Consume Water Advisory and a Boil Water Advisory
 
 ![Screenshot2.PNG](https://www.dropbox.com/s/3wrsq1dfw3cmn98/Screenshot2.PNG?dl=0&raw=1)
+
 Figure 2: Lesser Slave Lake, Uphill Pipelines and Incidents, and Surrounding Indigenous Lands with Two Boil Water Advisories
 
 ![Screenshot3.PNG](https://www.dropbox.com/s/0ricy2ongdtqkh8/Screenshot3.PNG?dl=0&raw=1)
+
 Figure 3: Woodland Cree Community with a Boil Water Advisory and Surrounding Pipelines with Incidents
 
 ![Screenshot4.PNG](https://www.dropbox.com/s/v4evyteyanlmb62/Screenshot4.PNG?dl=0&raw=1) 
+
 Figure 4: O’Chiese Indigenous Lands with Do Not Consume Water Advisory and Boil Water Advisory and Surrounding Pipelines with Incidents
 
 ![Screenshot5.PNG](https://www.dropbox.com/s/s1jvd425of1h4zu/Screenshot5.PNG?dl=0&raw=1)
+
 Figure 5: Hay Lake Indigenous Lands has a Boil Water Advisory with Land-Crossing Pipelines that have Nearby Operations Beyond Design Limits incidents
 
 ![Screenshot6.PNG](https://www.dropbox.com/s/gjnzkjpy91unwxm/Screenshot6.PNG?dl=0&raw=1)
+
 Figure 6: Beaver Lake Indigenous Lands with Nearby Pipelines and Release of Substance Incidents
 
 ![Screenshot7.PNG](https://www.dropbox.com/s/qhh8fnd5x896yzr/Screenshot7.PNG?dl=0&raw=1)
+
 Figure 7: Saddle Lake Indigenous Lands, Nearby Water Bodies, and Nearby Incidents and Pipelines
 
 # References:
 
 [[1]](https://www.aer.ca/protecting-what-matters/holding-industry-accountable/industry-performance/pipeline-performance) Alberta Energy Regulator. (2019). Pipeline Performance. AER. 
+
 [[2]](https://context.capp.ca/energy-matters/2019/og101_fifty-facts-and-figures) Canada’s Oil and Natural Gas Producers. (2019). Fifty facts about Canadian oil and natural gas. Context: Energy Examined. 
+
 [[3]](https://context.capp.ca/energy-matters/2019/btn_oil-and-gas-is-backbone-of-alberta-economy) Canada’s Oil and Natural Gas Producers. (2020). Oil and natural gas: backbone of the Alberta economy. Context: Energy Examined.  
+
 [[4]](https://www.chatelaine.com/news/gas-oil-pipelines-in-canada/) Chen, R. (2020). Everything You Need To Know About Pipelines—And Why They’re So Controversial. Chatelaine.  
+
 [[5]](https://www.fnha.ca/what-we-do/environmental-health/drinking-water-advisories) First Nations Health Authority. (2020). Drinking Water Advisories.
+
 [[6]](https://www.alberta.ca/indigenous-community-data.aspx#toc-0) Government of Alberta. (2016). Indigenous community data. Alberta. 
+
 [[7]](https://globalnews.ca/news/5785166/pipeline-leak-creek-epcor-edmonton-drinking-water/) Heidenreich, P. Edmonton drinking water ‘perfectly safe’ despite pipeline spill into tributary of North Saskatchewan River: EPCOR. Global News. 
+
 [[8]](https://www.parklandinstitute.ca/ten_things_to_know_about_indigenous_people_and_resource_extraction_in_alberta) Hussey, I., Hill, N., and Alook, A. (2017). Ten things to know about Indigenous people and resource extraction in Alberta. Parkland Institute.  
+
 [[9]](https://doi.org/10.1057/s41271-019-00186-1) Jonasson, M.E., Spiegel, S.J., Thomas, S. et al. (2019). Oil pipelines and food sovereignty: threat to health equity for Indigenous communities. J Public Health Pol 40, 504–517. 
+
 [[10]](https://globalnews.ca/news/3027421/feds-cant-overlook-health-risks-of-kinder-morgan-pipeline-expansion-experts/) Kohut, T. (2016). Feds can’t overlook health risks of Kinder Morgan pipeline expansion: experts. Global News. 
+
 [[11]](https://www.thecanadianencyclopedia.ca/en/article/alberta) The Canadian Encyclopedia. (2019). Alberta. Historica Canada. 
+
 [[12]](https://www.thecanadianencyclopedia.ca/en/article/pipeline) The Canadian Encyclopedia. (2020). Pipelines in Canada. Historica Canada. 
+
 [[13]](https://www.cbc.ca/news/canada/calgary/bonterra-energy-pipeline-spill-1.5251723) The Canadian Press. (2019). Pipeline rupture sends 40,000 litres of oil into Alberta creek. CBC News. 
+
 [[14]](https://sustainabledevelopment.un.org/?menu=1300) United Nations. (2015). Sustainable Development Goals Knowledge Platform. 
