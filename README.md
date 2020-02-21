@@ -74,11 +74,11 @@ Our main goal is to use our technical GIS knowledge, creativity, ability to inno
 
 ## Stakeholders:
 
-## Indigenous Communities in Alberta:
+### Indigenous Communities in Alberta:
 
 There are a number of Indigenous communities in Alberta. Some of these include First Nations, Metis and Inuit communities. Indigenous communities and people have a sense of relationship with ecosystems and the natural environment including land and water, and these ecosystems serve as sources of activities and food including hunting and fishing. However, a lot of these communities are within Alberta’s oil sands region and their health is therefore susceptible to and threatened by oil pipeline activities - construction, operation and expansion. Risks from oil pipeline activities include oil spillage and fire explosions which can lead to water contamination, asthma, cancer, fire and risk to the health of wildlife habitat. The consequences of these risks can be devastating for water quality and environmental health of ecosystems. This in turn negatively impacts the health of Indigenous communities as these communities, for example, are unable to access clean water. Also, fire-damaged wildlife habitats cause the traditional lifestyle of Indigenous communities to be impacted negatively. Contaminated drinking water can lead to diseases such as cancer and burning forest habitats can lead to breathing difficulties such as asthma. 
 
-## Governments, other oil-related agencies and oil companies:
+### Governments, other oil-related agencies and oil companies:
 
 The provincial and federal governments, other oil-related agencies and oil companies are aware of the impacts pipeline incidents have on human and environmental health. These authorities are interested in issues that relate to oil pipelines and also put measures in place to mitigate pipeline incidents and its impacts. For example, the National Energy Board (NEB), an independent agency, has authority over pipeline construction that spans across provincial borders to ensure pipelines are safely constructed to standards to minimize pipeline incidents. Also, oil companies are required to set up pipeline monitoring procedures in order to detect pipelines as soon as possible in order to mitigate health impacts the incidents might pose. Another notable agency is the Drinking Water Advisories (Boil Water Advisory and Do Not Consume Advisory). These advisories are issued as a precaution or in response when drinking water sources have been actually or suspected to have been polluted by various factors including oil pipeline incidents. They advise communities  as to when to boil water before use or completely avoid use of water from particular sources.
 
